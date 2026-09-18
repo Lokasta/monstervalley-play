@@ -1,0 +1,218 @@
+[
+  {
+    "key": "player",
+    "width": 24,
+    "height": 32,
+    "bounds": {
+      "x": 180,
+      "y": 133,
+      "w": 236,
+      "h": 333
+    },
+    "source": "farmer-source.png"
+  },
+  {
+    "key": "player_up",
+    "width": 24,
+    "height": 32,
+    "bounds": {
+      "x": 657,
+      "y": 133,
+      "w": 222,
+      "h": 333
+    },
+    "source": "farmer-source.png"
+  },
+  {
+    "key": "player_right",
+    "width": 24,
+    "height": 32,
+    "bounds": {
+      "x": 1125,
+      "y": 133,
+      "w": 232,
+      "h": 333
+    },
+    "source": "farmer-source.png"
+  },
+  {
+    "key": "player_down_step",
+    "width": 24,
+    "height": 32,
+    "bounds": {
+      "x": 180,
+      "y": 557,
+      "w": 236,
+      "h": 341
+    },
+    "source": "farmer-source.png"
+  },
+  {
+    "key": "player_up_step",
+    "width": 24,
+    "height": 32,
+    "bounds": {
+      "x": 657,
+      "y": 557,
+      "w": 222,
+      "h": 341
+    },
+    "source": "farmer-source.png"
+  },
+  {
+    "key": "player_right_step",
+    "width": 24,
+    "height": 32,
+    "bounds": {
+      "x": 1125,
+      "y": 557,
+      "w": 232,
+      "h": 335
+    },
+    "source": "farmer-source.png"
+  },
+  {
+    "key": "lumen_seedling",
+    "width": 34,
+    "height": 26,
+    "bounds": {
+      "x": 98,
+      "y": 207,
+      "w": 393,
+      "h": 251
+    },
+    "source": "companions-source.png"
+  },
+  {
+    "key": "lumen_wader",
+    "width": 28,
+    "height": 42,
+    "bounds": {
+      "x": 589,
+      "y": 88,
+      "w": 334,
+      "h": 382
+    },
+    "source": "companions-source.png"
+  },
+  {
+    "key": "lumen_moth",
+    "width": 23,
+    "height": 23,
+    "bounds": {
+      "x": 1149,
+      "y": 190,
+      "w": 244,
+      "h": 269
+    },
+    "source": "companions-source.png"
+  },
+  {
+    "key": "lumen_seedling_step",
+    "width": 34,
+    "height": 26,
+    "bounds": {
+      "x": 112,
+      "y": 678,
+      "w": 401,
+      "h": 247
+    },
+    "source": "companions-source.png"
+  },
+  {
+    "key": "lumen_wader_step",
+    "width": 28,
+    "height": 42,
+    "bounds": {
+      "x": 568,
+      "y": 567,
+      "w": 361,
+      "h": 368
+    },
+    "source": "companions-source.png"
+  },
+  {
+    "key": "lumen_moth_step",
+    "width": 23,
+    "height": 23,
+    "bounds": {
+      "x": 1160,
+      "y": 652,
+      "w": 251,
+      "h": 268
+    },
+    "source": "companions-source.png"
+  },
+  {
+    "key": "lumen_tree",
+    "width": 72,
+    "height": 88,
+    "bounds": {
+      "x": 48,
+      "y": 41,
+      "w": 462,
+      "h": 583
+    },
+    "source": "props-source.png"
+  },
+  {
+    "key": "lumen_house",
+    "width": 112,
+    "height": 96,
+    "bounds": {
+      "x": 527,
+      "y": 138,
+      "w": 618,
+      "h": 445
+    },
+    "source": "props-source.png"
+  },
+  {
+    "key": "lumen_lantern",
+    "width": 16,
+    "height": 38,
+    "bounds": {
+      "x": 1219,
+      "y": 195,
+      "w": 204,
+      "h": 412
+    },
+    "source": "props-source.png"
+  },
+  {
+    "key": "lumen_bush",
+    "width": 28,
+    "height": 22,
+    "bounds": {
+      "x": 94,
+      "y": 696,
+      "w": 367,
+      "h": 277
+    },
+    "source": "props-source.png"
+  },
+  {
+    "key": "lumen_bloomcap",
+    "width": 16,
+    "height": 20,
+    "bounds": {
+      "x": 638,
+      "y": 682,
+      "w": 279,
+      "h": 287
+    },
+    "source": "props-source.png"
+  },
+  {
+    "key": "lumen_moonmelon",
+    "width": 20,
+    "height": 20,
+    "bounds": {
+      "x": 1120,
+      "y": 672,
+      "w": 353,
+      "h": 293
+    },
+    "source": "props-source.png"
+  }
+]
